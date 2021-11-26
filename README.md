@@ -1,4 +1,4 @@
-### Hi there, I'm David -  [jandldavid.hu][website] 👋 
+### Hi there, I'm David -  [davee.eu][website] 👋 
 
 ## I'm a young guy, Developer!
 
@@ -10,9 +10,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="jandldavid.hu" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="jandldavid.hu | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="jandldavid.hu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="davee.eu" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="davee.eu | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="davee.eu | discord" width="22px" src="https://seeklogo.com/images/D/discord-logo-134E148657-seeklogo.com.png" />][instagram]
 
 <br />
 
@@ -37,6 +37,6 @@
 
 ---
 
-[website]: http://jandldavid.hu
+[website]: http://davee.eu
 [youtube]: https://www.youtube.com/channel/UCas7Gv6BZ6tOWvIR811vQzw
-[instagram]: https://instagram.com/jandl_david1
+[discord]: https://discord.com/invite/h5FfbKEgYR
