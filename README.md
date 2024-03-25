@@ -1,4 +1,4 @@
-### Hi there, I'm David -  [davee.eu][website] 👋 
+### Hi there, I'm David -  [drdev.hu][website] 👋 
 
 ## I'm a young guy, Developer!
 
